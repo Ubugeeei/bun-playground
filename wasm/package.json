@@ -1,0 +1,14 @@
+{
+  "name": "wasm",
+  "module": "index.ts",
+  "type": "module",
+  "scripts": {
+    "build:wasm": "wat2wasm lib.wat -o lib.wasm"
+  },
+  "devDependencies": {
+    "bun-types": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  }
+}
