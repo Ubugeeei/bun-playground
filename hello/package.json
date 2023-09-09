@@ -2,6 +2,9 @@
   "name": "hello",
   "module": "index.ts",
   "type": "module",
+  "scripts": {
+    "hello": "echo 'Hello, world!'"
+  },
   "devDependencies": {
     "bun-types": "latest"
   },
