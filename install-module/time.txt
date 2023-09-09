@@ -1,0 +1,39 @@
+[Bun]
+bun install v1.0.0 (822a00c4)
+
+real	0m0.412s
+user	0m0.009s
+sys	0m0.320s
+
+
+-------------------------------
+
+
+[NPM]
+npm WARN config init.author.name Use `--init-author-name` instead.
+npm WARN config init.author.email Use `--init-author-email` instead.
+npm WARN deprecated uuid@3.4.0: Please upgrade  to version 7 or higher.  Older versions may use Math.random() in certain circumstances, which is known to be problematic.  See https://v8.dev/blog/math-random for details.
+
+real	0m2.704s
+user	0m2.836s
+sys	0m2.680s
+
+
+-------------------------------
+
+
+[Yarn]
+
+real	0m5.418s
+user	0m3.422s
+sys	0m2.801s
+
+
+-------------------------------
+
+
+[PNPM]
+
+real	0m4.130s
+user	0m1.904s
+sys	0m9.407s
