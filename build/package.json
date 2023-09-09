@@ -1,0 +1,19 @@
+{
+  "name": "build",
+  "module": "index.ts",
+  "type": "module",
+  "scripts": {
+    "bld": "bun build ./index.tsx --outdir ./dist",
+    "bld2": "bun run build.ts"
+  },
+  "devDependencies": {
+    "bun-types": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
