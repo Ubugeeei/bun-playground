@@ -2,5 +2,7 @@
   "cSpell.words": [
     "dylib",
     "librust"
-  ]
+  ],
+  "files.autoSave": "afterDelay",
+  "files.autoSaveDelay": 0
 }
