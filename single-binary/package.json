@@ -1,0 +1,14 @@
+{
+  "name": "single-binary",
+  "module": "index.ts",
+  "type": "module",
+  "scripts": {
+    "bld": "bun build ./index.ts --compile --outfile bin"
+  },
+  "devDependencies": {
+    "bun-types": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  }
+}
