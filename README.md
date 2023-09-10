@@ -1,0 +1,1 @@
+https://github.com/Ubugeeei/work-log/discussions/265
