@@ -1,0 +1,15 @@
+{
+  "name": "vitest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test:w": "vitest --watch"
+  },
+  "keywords": [],
+  "author": "Ubugeeei <ubuge1122@gmail.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "vitest": "^0.34.4"
+  }
+}
